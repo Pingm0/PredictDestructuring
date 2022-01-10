@@ -1,0 +1,22 @@
+Prob1
+"Tesla"
+"Mercedes"
+
+Prob2
+
+nothing
+"Elon"
+
+Prob3
+"12345"
+undefined
+
+Prob4
+false
+true
+
+Prob5
+"value"
+[1, 5, 1, 8, 3, 3]
+1
+5
